@@ -6,9 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="sender" />
         <module name="seven_base" />
         <module name="seven_common" />
         <module name="seven_platform" />
+        <module name="seven_rabbit_receiver" />
+        <module name="seven_rabbit_sender" />
         <module name="seven_search" />
         <module name="seven_security" />
         <module name="seven_security (1)" />
@@ -19,9 +22,13 @@
       <module name="common" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="framework" target="1.8" />
+      <module name="sender" target="1.8" />
       <module name="seven_base" target="1.8" />
       <module name="seven_common" target="1.8" />
       <module name="seven_platform" target="1.8" />
+      <module name="seven_rabbit_receiver" target="1.8" />
+      <module name="seven_rabbit_sender" target="1.8" />
+      <module name="seven_rabbitmq" target="1.8" />
       <module name="seven_search" target="1.8" />
       <module name="seven_security" target="1.8" />
       <module name="seven_security (1)" target="1.8" />
