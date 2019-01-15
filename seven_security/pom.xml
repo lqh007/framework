@@ -2,14 +2,34 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-<parent>
-    <artifactId>seven_platform</artifactId>
-    <groupId>com.seven</groupId>
-    <version>1.0-SNAPSHOT</version>
-</parent>
-<modelVersion>4.0.0</modelVersion>
+    <parent>
+        <artifactId>seven_platform</artifactId>
+        <groupId>com.seven</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
 
-<artifactId>seven_security</artifactId>
+    <artifactId>seven_security</artifactId>
 
 
+    <dependencies>
+        <!-- 安全框架 Spring Security -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.seven</groupId>
+            <artifactId>seven_common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.seven</groupId>
+            <artifactId>seven_base</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+    </dependencies>
 </project>

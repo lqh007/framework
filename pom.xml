@@ -12,11 +12,11 @@
         <module>seven_base</module>
         <module>seven_search</module>
         <module>seven_security</module>
-        <module>seven_security</module>
         <module>seven_web</module>
         <module>seven_rabbit_receiver</module>
         <module>seven_rabbit_sender</module>
-        <module>seven_rabbit_receiver</module>
+        <module>seven_dubbo_server</module>
+        <module>seven_dubbo_client</module>
     </modules>
     <packaging>pom</packaging>
 
