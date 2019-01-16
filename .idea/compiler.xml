@@ -18,6 +18,7 @@
         <module name="seven_security" />
         <module name="seven_security (1)" />
         <module name="seven_web" />
+        <module name="seven_wechat" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -37,6 +38,7 @@
       <module name="seven_security" target="1.8" />
       <module name="seven_security (1)" target="1.8" />
       <module name="seven_web" target="1.8" />
+      <module name="seven_wechat" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
