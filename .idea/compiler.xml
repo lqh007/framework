@@ -15,8 +15,11 @@
         <module name="seven_rabbit_receiver" />
         <module name="seven_rabbit_sender" />
         <module name="seven_search" />
-        <module name="seven_security" />
         <module name="seven_security (1)" />
+        <module name="seven_security_app" />
+        <module name="seven_security_borowser" />
+        <module name="seven_security_core" />
+        <module name="seven_security_demo" />
         <module name="seven_web" />
         <module name="seven_wechat" />
       </profile>
@@ -24,21 +27,25 @@
     <bytecodeTargetLevel>
       <module name="common" target="1.8" />
       <module name="demo" target="1.8" />
-      <module name="framework" target="1.8" />
+      <module name="framework" target="1.5" />
       <module name="sender" target="1.8" />
-      <module name="seven_base" target="1.8" />
-      <module name="seven_common" target="1.8" />
-      <module name="seven_dubbo_client" target="1.8" />
-      <module name="seven_dubbo_server" target="1.8" />
+      <module name="seven_base" target="1.5" />
+      <module name="seven_common" target="1.5" />
+      <module name="seven_dubbo_client" target="1.5" />
+      <module name="seven_dubbo_server" target="1.5" />
       <module name="seven_platform" target="1.8" />
-      <module name="seven_rabbit_receiver" target="1.8" />
-      <module name="seven_rabbit_sender" target="1.8" />
+      <module name="seven_rabbit_receiver" target="1.5" />
+      <module name="seven_rabbit_sender" target="1.5" />
       <module name="seven_rabbitmq" target="1.8" />
-      <module name="seven_search" target="1.8" />
+      <module name="seven_search" target="1.5" />
       <module name="seven_security" target="1.8" />
       <module name="seven_security (1)" target="1.8" />
-      <module name="seven_web" target="1.8" />
-      <module name="seven_wechat" target="1.8" />
+      <module name="seven_security_app" target="1.8" />
+      <module name="seven_security_borowser" target="1.8" />
+      <module name="seven_security_core" target="1.8" />
+      <module name="seven_security_demo" target="1.8" />
+      <module name="seven_web" target="1.5" />
+      <module name="seven_wechat" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
