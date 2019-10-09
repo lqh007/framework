@@ -5,23 +5,25 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.seven</groupId>
-    <artifactId>seven_platform</artifactId>
+    <artifactId>seven-platform</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>seven_common</module>
-        <module>seven_base</module>
-        <module>seven_search</module>
-        <module>seven_security</module>
-        <module>seven_web</module>
-        <module>seven_rabbit_receiver</module>
-        <module>seven_rabbit_sender</module>
-        <module>seven_dubbo_server</module>
-        <module>seven_dubbo_client</module>
-        <module>seven_wechat</module>
+        <module>seven-common</module>
+        <module>seven-base</module>
+        <module>seven-search</module>
+        <module>seven-security</module>
+        <module>seven-web</module>
+        <module>seven-rabbit-receiver</module>
+        <module>seven-rabbit-sender</module>
+        <module>seven-dubbo-server</module>
+        <module>seven-dubbo-client</module>
+        <module>seven-wechat</module>
+        <module>springboot-kafka</module>
+        <module>seventest</module>
     </modules>
     <packaging>pom</packaging>
 
-    <name>seven_platform_parent</name>
+    <name>seven-platform-parent</name>
     <description>seven后端父工程</description>
 
     <!--<parent>

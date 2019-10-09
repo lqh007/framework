@@ -7,6 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sender" />
+        <module name="seven-base" />
+        <module name="seven-common" />
+        <module name="seven-dubbo-client" />
+        <module name="seven-dubbo-server" />
+        <module name="seven-rabbit-receiver" />
+        <module name="seven-rabbit-sender" />
+        <module name="seven-search" />
+        <module name="seven-test" />
+        <module name="seven-web" />
+        <module name="seven-wechat" />
         <module name="seven_base" />
         <module name="seven_common" />
         <module name="seven_dubbo_client" />
@@ -20,8 +30,12 @@
         <module name="seven_security_borowser" />
         <module name="seven_security_core" />
         <module name="seven_security_demo" />
+        <module name="seven_test" />
         <module name="seven_web" />
         <module name="seven_wechat" />
+        <module name="seventest" />
+        <module name="springboot-kafka" />
+        <module name="springboot_kafka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +43,17 @@
       <module name="demo" target="1.8" />
       <module name="framework" target="1.5" />
       <module name="sender" target="1.8" />
+      <module name="seven-base" target="1.5" />
+      <module name="seven-common" target="1.5" />
+      <module name="seven-dubbo-client" target="1.5" />
+      <module name="seven-dubbo-server" target="1.5" />
+      <module name="seven-rabbit-receiver" target="1.5" />
+      <module name="seven-rabbit-sender" target="1.5" />
+      <module name="seven-search" target="1.5" />
+      <module name="seven-security" target="1.8" />
+      <module name="seven-test" target="1.8" />
+      <module name="seven-web" target="1.5" />
+      <module name="seven-wechat" target="1.5" />
       <module name="seven_base" target="1.5" />
       <module name="seven_common" target="1.5" />
       <module name="seven_dubbo_client" target="1.5" />
@@ -44,8 +69,12 @@
       <module name="seven_security_borowser" target="1.8" />
       <module name="seven_security_core" target="1.8" />
       <module name="seven_security_demo" target="1.8" />
+      <module name="seven_test" target="1.5" />
       <module name="seven_web" target="1.5" />
       <module name="seven_wechat" target="1.5" />
+      <module name="seventest" target="1.5" />
+      <module name="springboot-kafka" target="1.5" />
+      <module name="springboot_kafka" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

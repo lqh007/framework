@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/framework.iml" filepath="$PROJECT_DIR$/.idea/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-base/seven-base.iml" filepath="$PROJECT_DIR$/seven-base/seven-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-common/seven-common.iml" filepath="$PROJECT_DIR$/seven-common/seven-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-dubbo-client/seven-dubbo-client.iml" filepath="$PROJECT_DIR$/seven-dubbo-client/seven-dubbo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-dubbo-server/seven-dubbo-server.iml" filepath="$PROJECT_DIR$/seven-dubbo-server/seven-dubbo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-rabbit-receiver/seven-rabbit-receiver.iml" filepath="$PROJECT_DIR$/seven-rabbit-receiver/seven-rabbit-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-rabbit-sender/seven-rabbit-sender.iml" filepath="$PROJECT_DIR$/seven-rabbit-sender/seven-rabbit-sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-search/seven-search.iml" filepath="$PROJECT_DIR$/seven-search/seven-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-security/seven-security.iml" filepath="$PROJECT_DIR$/seven-security/seven-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-test/seven-test.iml" filepath="$PROJECT_DIR$/seven-test/seven-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-web/seven-web.iml" filepath="$PROJECT_DIR$/seven-web/seven-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-wechat/seven-wechat.iml" filepath="$PROJECT_DIR$/seven-wechat/seven-wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-security/seven_security_app/seven_security_app.iml" filepath="$PROJECT_DIR$/seven-security/seven_security_app/seven_security_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-security/seven_security_borowser/seven_security_borowser.iml" filepath="$PROJECT_DIR$/seven-security/seven_security_borowser/seven_security_borowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-security/seven_security_core/seven_security_core.iml" filepath="$PROJECT_DIR$/seven-security/seven_security_core/seven_security_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seven-security/seven_security_demo/seven_security_demo.iml" filepath="$PROJECT_DIR$/seven-security/seven_security_demo/seven_security_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seventest/seventest.iml" filepath="$PROJECT_DIR$/seventest/seventest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" filepath="$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" />
+    </modules>
+  </component>
+</project>

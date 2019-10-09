@@ -2,19 +2,22 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_base" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_common" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_dubbo_client" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_dubbo_server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_rabbit_receiver" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_rabbit_sender" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_search" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_security" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_security/seven_security_app" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_security/seven_security_borowser" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_security/seven_security_core" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_security/seven_security_demo" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_web" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/seven_wechat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-dubbo-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-dubbo-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-rabbit-receiver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-rabbit-sender" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-security/seven_security_app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-security/seven_security_borowser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-security/seven_security_core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-security/seven_security_demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seven-wechat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seventest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-kafka" charset="UTF-8" />
   </component>
 </project>
