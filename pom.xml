@@ -19,7 +19,7 @@
         <module>seven-dubbo-client</module>
         <module>seven-wechat</module>
         <module>springboot-kafka</module>
-        <module>seventest</module>
+        <module>seven-test</module>
     </modules>
     <packaging>pom</packaging>
 
